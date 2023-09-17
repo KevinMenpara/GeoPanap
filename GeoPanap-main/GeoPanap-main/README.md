@@ -30,4 +30,4 @@ We are using client side secret in tooljet. Make sure all environment variable h
 1. `GEOPANAP_ENCRYPTION_KEY`: Encryption key is used for encrypt the password (00d973ed37077399cafae3cc9a951cf4efe00d7028493c65ed07a9b732966ff2).
 2. `GEOPANAP_S3_BUCKET`: Where all object documents are store.
 
-Note: In ToolJet you cannot create same environment variable in different workspace.
+Note IMP: In ToolJet you cannot create same environment variable in different workspace.
